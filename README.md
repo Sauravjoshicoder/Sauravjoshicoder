@@ -17,18 +17,21 @@ Here are some ideas to get you started:
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sauravjoshi86&label=Profile%20views&color=0e75b6&style=flat" alt="Sa" /> </p>
 <p align="left"> <a href="https://twitter.com/Sauravjoshi86" target="blank"><img src="https://img.shields.io/twitter/follow/Sauravjoshi86?logo=twitter&style=for-the-badge" alt="Sauravjoshi86" /></a> </p>
-🔸👯 I’m looking to collaborate on
+- 👯 I’m looking to collaborate on 
 𝗖𝘆𝗯𝗲𝗿 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 
 🔸👨‍💻 All of my projects are available at 
 https://sjcoding.wuaze.com/
 
-- 📝 I regularly write articles on
+🔸📝 I regularly write articles on
 https://sauravkumarofficial.blogspot.com/
 
-- 💬 Ask me about **HYML,Ethical Hacking, CSS**
-- 📫 How to reach me **sauravjoshicoder@gmail.com**
-- ⚡ Fun fact **I Think i am Funny**
+🔸💬 Ask me about 
+**HYML,Ethical Hacking, CSS**
+🔸📫 How to reach me 
+**sauravjoshicoder@gmail.com**
+🔸⚡ Fun fact 
+**I Think i am Funny**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Sauravjoshi86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sauravjoshi86" height="30" width="40" /></a>
